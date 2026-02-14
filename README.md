@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Eduarda Borges
+## 👩🏻‍💻 Eduarda 
 
 **`Desenvolvedora FullStack`**
 
