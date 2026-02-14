@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Maria Eduarda Vitorino Borges, tenho 24 anos e sou natural de São Paulo.  
+Me chamo Maria Eduarda, tenho 24 anos e sou natural de São Paulo.  
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UFBRA.  
 Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil no LinkedIn.  
 Acompanhe meus novos e antigos projetos!
